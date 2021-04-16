@@ -12,20 +12,20 @@ The game ends when your health reaches zero.
 Each boss has a red health bar. The boss is defeated and you progress to the next level when this bar reaches Zero.
 The boss spawns alien minions to fight alongside it after certain intervals.
 
-your ship's lazer beams cancel out enemy beams. be creative in using your shots for offence and defence.
+Your ship's lazer beams cancel out enemy beams. Be creative in using your shots for offence and defence.
 
-you have 4 ships to transform into. each ship has a different speed and fires a different kind of beam.
-be creative with transforming into a different ship according to different situations.
+You have 4 ships to transform into. Each ship has a different speed and fires a different kind of beam.
+Ee creative with transforming into a different ship according to different situations.
 
-the game uses a scoring system to keep track of how many ships you destroyed and damage dealt to bosses.
+The game uses a scoring system to keep track of how many ships you destroyed and damage dealt to bosses.
 
 ***
 - Use arrows keys to move your ship.
 - Press spacebar to fire
-- press 1,2, 3 or 4 to change between ships
+- Press 1,2, 3 or 4 to change between ships
 
 ***
 
-open the game folder and run the "alien_invasion.py" file to run the game
+Open the game folder and run the "alien_invasion.py" file to run the game
 Hope you have fun playing
 
