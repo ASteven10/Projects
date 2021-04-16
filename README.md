@@ -1,2 +1,1 @@
-# Projects
-# This is where I shall be uploading my Projects 
+# Projects I have worked on will be shared here
